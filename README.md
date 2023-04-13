@@ -1,6 +1,6 @@
 # resume
 To generate a PDF file of the resume from the repository, 
-1. open your terminal and navigate to an appropriate working directory
+1. open your terminal and navigate to an appropriate working directory.
 2. just run the following command.
 ``` shell
 git clone https://github.com/aralsea/resume.git \
